@@ -37,7 +37,7 @@ public class Window extends JFrame implements ActionListener {
 
         btnStart.addActionListener(this);
 
-        setSize(275,400);
+        setSize(275,350);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
